@@ -39,5 +39,3 @@ This game was built as a fun learning project to strengthen Python and game deve
 
 ---
 
-## 📁 Project Structure  
-
