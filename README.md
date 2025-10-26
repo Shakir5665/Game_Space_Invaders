@@ -4,13 +4,6 @@ The player controls a spaceship that must shoot down waves of enemies before the
 
 ---
 
-## 🎮 Game Preview  
-*(Optional: Add a screenshot or GIF of your game here)*  
-Example:  
-![Space Invaders Demo](https://your-demo-link-or-gif-here)
-
----
-
 ## 🧠 About the Project  
 
 This project is a recreation of the classic *Space Invaders* arcade game, developed using **Python** and the **Pygame** library.  
